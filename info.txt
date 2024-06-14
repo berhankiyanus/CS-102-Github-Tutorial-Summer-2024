@@ -1,2 +1,28 @@
 Berhan Kıyanus - 22203742 - https://github.com/berhankiyanus
 Favourite game: Valorant
+commit e871faee9640c1effb277ab81135de510fa4a9e0
+Merge: 036bbf8 ced6f1c
+Author: berhankiyanus <146877682+berhankiyanus@users.noreply.github.com>
+Date:   Fri Jun 14 19:25:45 2024 +0300
+
+    Merge pull request #1 from berhankiyanus/new_information
+    
+    Added my favourite game to info.txt
+
+commit ced6f1c1ac89335c1c19ad087e102750effcdeed
+Author: Berhan Kıyanus <berhan.kiyanus@ug.bilkent.edu.tr>
+Date:   Fri Jun 14 19:23:19 2024 +0300
+
+    Added my favourite game to info.txt
+
+commit 036bbf8a388f958e49bdf6966de3d8bfa3bb2770
+Author: Berhan Kıyanus <berhan.kiyanus@ug.bilkent.edu.tr>
+Date:   Fri Jun 14 19:21:05 2024 +0300
+
+    Berhan Kıyanus updated info.txt
+
+commit 00e24777c705c3d09527986d6a026227ee72fb11
+Author: berhankiyanus <146877682+berhankiyanus@users.noreply.github.com>
+Date:   Fri Jun 14 19:07:35 2024 +0300
+
+    Initial commit
